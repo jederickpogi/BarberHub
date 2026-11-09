@@ -1,0 +1,2 @@
+# BarberHub
+haircut ideas
